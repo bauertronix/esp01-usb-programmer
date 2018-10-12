@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name esp8266-usb-programmer-rescue)(type Legacy)(uri ${KIPRJMOD}/esp8266-usb-programmer-rescue.lib)(options "")(descr ""))
+  (lib (name ESP8266)(type Legacy)(uri /home/projects/workspace-kicad/kicad-custom-libraries/ESP8266.lib)(options "")(descr ""))
+)
